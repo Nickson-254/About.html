@@ -1,0 +1,15 @@
+
+.main-footer{
+  list-style: none;
+  height: 70px;
+  background-color: green;
+  font-weight: inherit;
+  background-size: cover;
+  text-decoration: none;
+  justify-content: space-between;
+}
+.container{
+  text-align: center;
+  font-size: 18px;
+  text-emphasis-color: inherit;
+}
